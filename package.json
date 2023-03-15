@@ -1,0 +1,17 @@
+{
+  "name": "primer-ejercicio",
+  "version": "1.0.0",
+  "description": "Este es mi primer ejercicio con node, en el curso de javascript realizado por OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "exercise-1": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programacion del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "First",
+    "Exercise",
+    "Presentation"
+  ],
+  "author": "Felipe Marin",
+  "license": "ISC"
+}
